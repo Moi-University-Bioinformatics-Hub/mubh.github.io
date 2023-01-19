@@ -14,6 +14,6 @@ Application Open: **2Oth Jan 2023**
 
 Application Deadline: **27th Jan 2023**
 
-To apply, please complete the form in this <link>
+To apply, please complete the form in this [link](https://docs.google.com/forms/d/e/1FAIpQLSdyQlQcK94859OnfyTFh43fobQaOccwLP74YvnJak6frqY6RA/viewform?usp=sf_link)
 
 For queries, please raise an **issue** in this repo.
