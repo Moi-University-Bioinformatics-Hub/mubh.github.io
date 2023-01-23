@@ -9,7 +9,8 @@ The rapid increase in genomic data demands increased capacity for bioinformatici
 Interested applicants must have access to :
 * Access to computer
 * Stable internet
-## Introduction to Bioinformatics
+## Curriculum
+* Introduction to Bioinformatics
 * Introduction to Genomics
 * Overview of NGS Technologies
 * Introduction to the Unix Shell
