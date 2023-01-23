@@ -16,6 +16,6 @@ Application Deadline: **28th Jan 2023**
 
 To apply, please complete the form in this [link](https://docs.google.com/forms/d/e/1FAIpQLSdyQlQcK94859OnfyTFh43fobQaOccwLP74YvnJak6frqY6RA/viewform?usp=sf_link)
 
-Alternative [link](https://docs.google.com/forms/d/e/1FAIpQLSdqUUTa06zuDCxGmoS2JkBh9DoGna9i912H5WDFbLa3l49DqQ/viewform?usp=pp_url)
+<!--Alternative [link](https://docs.google.com/forms/d/e/1FAIpQLSdqUUTa06zuDCxGmoS2JkBh9DoGna9i912H5WDFbLa3l49DqQ/viewform?usp=pp_url)-->
 
 For queries, please raise an **issue** in this repo.
